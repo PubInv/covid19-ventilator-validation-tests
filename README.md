@@ -3,13 +3,15 @@ A collection of validation test for for emergency covid19 ventilators (clinical 
 
 ## Purpose
 
-The is the public home of a spreadsheet containing validation tests built around the UK's excellent and concise
+The is the public home of a [Google Sheet](https://docs.google.com/spreadsheets/d/17EJ9TN6O1wqP4c-lIn5hbmuMRrto7M_KXHf17zjNSLk/edit?usp=sharing) containing ~200 validation tests built around the UK's excellent and concise
 standard for [Rapidly Manufactured Ventilator
 System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/876167/RMVS001_v3.1.pdf).
 
 By manually performing all of the madatory and optional tests in the spreadsheet, partial confidence that a ventilator is suitable for "last resort" use in a the COVID-19 crisis can be obtained.
 
 This test suite tests usabillity be a clinician with some familiarity with ventilators and some training on the specific device. It is not meant for home usage.
+
+![Screen Shot 2020-03-30 at 9 18 47 PM](https://user-images.githubusercontent.com/5296671/77980159-39647080-72cc-11ea-926e-82e872579b10.png)
 
 ## Copying and Modifying
 
