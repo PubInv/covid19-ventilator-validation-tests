@@ -3,7 +3,7 @@ A collection of validation test for for emergency covid19 ventilators (clinical 
 
 ## Purpose
 
-The is the public home of a [Google Sheet](https://docs.google.com/spreadsheets/d/17EJ9TN6O1wqP4c-lIn5hbmuMRrto7M_KXHf17zjNSLk/edit?usp=sharing) containing ~200 validation tests built around the UK's excellent and concise
+The is the public home of a [Google Sheet](https://docs.google.com/spreadsheets/d/17EJ9TN6O1wqP4c-lIn5hbmuMRrto7M_KXHf17zjNSLk/edit?usp=sharing) containing ~74 validation tests built around the UK's excellent and concise
 standard for [Rapidly Manufactured Ventilator
 System](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/876167/RMVS001_v3.1.pdf).
 This spreadsheet is also available in [Open Document format](https://github.com/PubInv/covid19-ventilator-validation-tests/blob/master/ValidationTests.ods) and [Micrsoft Excel format](https://github.com/PubInv/covid19-ventilator-validation-tests/blob/master/ValidationTests.xlsx), though those may be slightly out-of-date with the Google Sheet version.
